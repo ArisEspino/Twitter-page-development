@@ -1,16 +1,7 @@
 # flutter_application_3
 
-A new Flutter project.
+Sign Up & Login Page - X (Formerly Twitter)
 
-## Getting Started
+This web page, built with Flutter and programmed in Dart, replicates the basic sign-up and login process of X (formerly Twitter). Users can create an account by entering their name, email, and password. It also includes a login screen for accessing the platform with registered credentials.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The design is modern, responsive, and minimalist, ensuring a smooth experience on both mobile and desktop devices.
