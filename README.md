@@ -9,7 +9,4 @@ The design is modern, responsive, and minimalist, ensuring a smooth experience o
 
 # Try for yourself :D
 
-```
-effervescent-rabanadas-d1deea.netlify.app
-
-```
+ [effervescent-rabanadas](https://effervescent-rabanadas-d1deea.netlify.app)
