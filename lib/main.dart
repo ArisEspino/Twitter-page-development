@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Admin Dashboard',
+      title: 'Twitter',
       initialRoute: '/',
       onGenerateRoute: Flurorouter.router.generator,
       builder: (_, child) {
